@@ -1,2 +1,13 @@
-# Waxon-Design-Studio
-Waxon-Design-Studio
+# Waxon | Design Studio
+GitHub Pages - https://grafit-off.github.io/Waxon-Design-Studio/
+
+Адаптивно-отзывчивая верстка. Минимальный уровень JS для верстки, несколько модальных окон, подключение, настройка библиотек. Плохая семантика, плохая доступность.
+
+P.S. "Мой первый макет"
+
+Тип - Landing Page. Высота макете - 6970px.
+
+Начало верстки - Jan 2, 2021.
+
+Окончание - Feb 6, 2021.
+//Правка Feb 26, 2021.
